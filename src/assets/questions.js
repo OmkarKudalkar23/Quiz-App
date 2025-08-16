@@ -1,0 +1,42 @@
+export const questions = [
+  {
+    question: "Which company developed the first smartphone?",
+    option1: "Apple",
+    option2: "IBM",
+    option3: "Samsung",
+    option4: "Nokia",
+    ans: 2,
+  },
+  {
+    question: "What does 'HTTP' stand for?",
+    option1: "HyperText Transfer Protocol",
+    option2: "HighText Transfer Prsotocol",
+    option3: "HyperText Transmission Program",
+    option4: "Hyperlink Transfer Process",
+    ans: 1,
+  },
+  {
+    question: "Which programming language is primarily used for Android app development?",
+    option1: "Python",
+    option2: "Kotlin",
+    option3: "Swift",
+    option4: "C#",
+    ans: 2,
+  },
+  {
+    question: "Who is known as the father of the computer?",
+    option1: "Alan Turing",
+    option2: "Charles Babbage",
+    option3: "Bill Gates",
+    option4: "Steve Jobs",
+    ans: 2,
+  },
+  {
+    question: "What does 'GPU' stand for?",
+    option1: "Graphics Processing Unit",
+    option2: "General Processing Utility",
+    option3: "Graphical Program Unit",
+    option4: "General Purpose Unit",
+    ans: 1,
+  },
+];
